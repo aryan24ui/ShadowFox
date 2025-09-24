@@ -22,10 +22,6 @@ Hangman Game → Classic word-guessing game with win/loss logic
 
 Task 3 – Data & AI Projects
 
-Cricket Fielding Analysis → Collect and analyze T20 match fielding data
-
-Jupyter Notebook Data Analysis → Explore datasets, visualize trends, gain insights
-
 NLP Project → AI-driven natural language processing using GPT/BERT/Hugging Face
 
 🚀 Features
@@ -33,8 +29,6 @@ NLP Project → AI-driven natural language processing using GPT/BERT/Hugging Fac
 Beginner-friendly Python programs
 
 Hands-on mini projects
-
-Data analysis with Jupyter Notebook
 
 AI/NLP integration examples
 
